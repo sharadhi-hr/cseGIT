@@ -1,4 +1,4 @@
-# cseGIT
+purpose is to fetch latest changes made to remote repository
 this is the readme of cseGIT repository
-sharadhi h r
+
 added a newline at 4pm
